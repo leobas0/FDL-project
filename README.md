@@ -1,5 +1,6 @@
 # FDL-project
 Computer Vision Project for Foundations of Deep Learning course
+Group members: Leonardo Basili, Léopold Granger
 
 The project consisted in a kaggle challenge focused on the development of a dense segmentation model for aerial post-flood aerial imagery.
 
