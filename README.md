@@ -11,4 +11,4 @@ Unfortunately, such insights typically only emerge hours or days after a floodin
 # Dataset
 The Hurricane Harvey dataset contains several hundred drone images of residential neighborhoods in Houston. For each, a dense segmentation mask has been generated for the classes mentioned below. Each mask was further vectorized to provide additional representations for modeling, visualization, and review.
 
-Download FDL_report.pdf file for further details on our model results
+See FDL_report.pdf file for further details on our model results
