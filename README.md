@@ -1,4 +1,4 @@
-# Foundations of Deep Learning course project
+# Foundations of Deep Learning group project
 
 Group members: Leonardo Basili, Léopold Granger
 
