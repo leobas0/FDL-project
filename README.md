@@ -1,2 +1,2 @@
 # FDL-project
-Computer Vision Project for Fundamentals of Deep Learning course
+Computer Vision Project for Foundations of Deep Learning course
